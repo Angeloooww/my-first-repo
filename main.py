@@ -3,7 +3,7 @@ def greet(name):
 
 greet("World")
 
-
+#This function will add the 2 numbers
 def add(a, b):
     return a + b
 
